@@ -3,7 +3,7 @@ This will bulk payout TRAC earned on your node for all current held jobs.
 
 Please make sure you edit the script to put your ERC725 ID where it says "0xCHANGEMETOYOURerc725ID" 
 
-1: Open your terminal
+1: SSH into your node to access the command line interface
 
 2: Clone the project to your local machine by running:
 
