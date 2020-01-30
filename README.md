@@ -6,9 +6,9 @@ Please make sure you edit the script to put your ERC725 ID where it says "0xCHAN
 1: SSH into your node to access the command line interface
 
 2: Clone the project to your local machine by running:
-
+```
 git clone https://github.com/Guinnessstache/OTBulkPayout
-
+```
 3: Navigate to the OTBulkPayout directory by running:
 
 cd OTBulkPayout/
