@@ -13,7 +13,7 @@ git clone https://github.com/Guinnessstache/OTBulkPayout
 ```
 cd OTBulkPayout/
 ```
-4: Edit the bulkpayout.sh script to add in your ERC725 ID for the node you are on.  Replace 0xCHANGEMETOYOURerc725ID with your ERC725 ID
+4: Edit the bulkpayout.sh script to add in your ERC725 ID for the node you are on.  Replace ReplaceNodeID with your ERC725 ID
 ```
 sudo nano bulkpayout.sh
 ```
